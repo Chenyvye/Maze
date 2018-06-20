@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1528469537 source:f:\程序\c\数据结构实验\maze\main.cpp
+	"graphics.h"
+
+1529246006 source:f:\程序\c\数据结构课程设计\maze\main.cpp
+	"graphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	"maze.h"
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1529469951 f:\程序\c\数据结构课程设计\maze\maze.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<tchar.h>
+	<time.h>
+	<conio.h>
+	"graphics.h"
+
